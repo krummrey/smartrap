@@ -1,7 +1,7 @@
 <!DOCTYPE MeshLabDocument>
 <MeshLabProject>
  <MeshGroup>
-  <MLMesh label="lm8_holder_x.stl" filename="lm8_holder_x.stl">
+  <MLMesh label="fishingline_holder_2.stl" filename="fishingline_holder_2.stl">
    <MLMatrix44>
 1 0 0 0 
 0 1 0 0 
@@ -9,7 +9,15 @@
 0 0 0 1 
 </MLMatrix44>
   </MLMesh>
-  <MLMesh label="plate_base.stl" filename="plate_base.stl">
+  <MLMesh label="fishingline_holder_1.stl" filename="fishingline_holder_1.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="plate_base (repariert).stl" filename="plate_base (repariert).stl">
    <MLMatrix44>
 1 0 0 0 
 0 1 0 0 
@@ -34,6 +42,14 @@
 </MLMatrix44>
   </MLMesh>
   <MLMesh label="plate_x.stl" filename="plate_x.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="lm8_holder_x.stl" filename="lm8_holder_x.stl">
    <MLMatrix44>
 1 0 0 0 
 0 1 0 0 
@@ -114,6 +130,30 @@
 </MLMatrix44>
   </MLMesh>
   <MLMesh label="bottom_center.stl" filename="bottom_center.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="plate_base.stl" filename="plate_base.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="coupling-2.stl" filename="coupling-2.stl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="coupling-1.stl" filename="Buildplate.stl">
    <MLMatrix44>
 1 0 0 0 
 0 1 0 0 
